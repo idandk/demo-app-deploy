@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: demo-app
-          image: ghcr.io/idandk/demo-app:latest
+          image: ghcr.io/idandk/demo-app:64e0d46fbdfe4d368e1deccc8be69e5e9c9ab0f5@sha256:dc051f6717e668c4a9380283fc33818530d1cb5a79ab8b9cedb60417a470136f
           # env:
           # - name: SECRET
           #   valueFrom:
