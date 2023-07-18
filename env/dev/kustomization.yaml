@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/idandk/demo-app
-  newTag: latest
+  newTag: 64e0d46fbdfe4d368e1deccc8be69e5e9c9ab0f5
